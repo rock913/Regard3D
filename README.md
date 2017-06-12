@@ -6,6 +6,8 @@ Regard3D
 Introduction
 ------------
 
+![what](http://i.imgur.com/1NLoToU.gif)
+
 This is the source repository of Regard3D, an open source structure-from-motion program based on OpenMVG.
 Please find the documentation on the [Regard3D homepage](http://www.regard3d.org).
 
