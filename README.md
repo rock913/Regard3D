@@ -54,4 +54,4 @@ Documentation, building
 --------
 
 For documentation and building instructions, see the [Regard3D homepage](http://www.regard3d.org).
-(http://i.imgur.com/nq9Aezh.gif)
+[earth](http://i.imgur.com/nq9Aezh.gif)
